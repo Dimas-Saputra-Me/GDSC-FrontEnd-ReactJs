@@ -1,70 +1,54 @@
-# Getting Started with Create React App
+# GDSC-FrontEnd
+Repositori ini merupakan repositori lanjutan dari repositori sebelumnya yaitu repositori [GDSC-FrontEnd](https://github.com/Dimas-Saputra-Me/GDSC-FrontEnd). Repositori ini berisi tentang kode website yang menampilkan beberapa list film dengan properti tiap film yaitu director, publisher, dan sinopsis film. Data properti diambil melalui online rest api JsonPlaceHolder. Pada website ini juga terdapat fitur search bar untuk mencari film berdasaran nomor ID yang tersedia. Pengguna juga dapat melihat detail film menggunakan tombol view detail. Pada halaman about berisi profil singkat.
+\
+\
+Repositori saat ini menggunakan framework React Js dari sebelumnya masih kode native. Terdapat beberapa fitur baru lanjutan dari repositori sebelumnya, yaitu fitur wishlist pengguna dapat menambahkan wishlist film yang dapat di kostumisasi oleh pengguna. Selain itu juga terdapat penambahan sistem cookies untuk menyimpan data wishlist pengguna.
+\
+\
+Kunjungi halaman [Github pages](#) untuk melihat website. 
+\
+\
+**Jangan lupa star-nya, terima kasih.**
+\
+**Repositori ini dibuat untuk keperluan tugas FrontEnd GDSC-ITB**
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Website Previews
 
-## Available Scripts
+## Desktop Preview
+### Homepage
+![Homepage](website-previews/d1.png)
+### Wishlist
+![Homepage](website-previews/d2.png)
+### Detail Page
+![Detail Page](website-previews/d3.png)
+### Search Page
+![Search Page](website-previews/d4.png)
+### About Page
+![About Page](website-previews/d5.png)
 
-In the project directory, you can run:
+## Mobile Preview
+### Homepage
+![Homepage](website-previews/m1.png)
+![Homepage](website-previews/m2.png)
+![Homepage](website-previews/m3.png)
+### Wishlist
+![Homepage](website-previews/m4.png)
+### Detail Page
+![Detail Page](website-previews/m5.png)
+### Search Page
+![Search Page](website-previews/m6.png)
+### About Page
+![About Page](website-previews/m7.png)
 
-### `npm start`
+## Features
+- Search movie with available ID
+- Using [JsonPlaceHolder API](https://jsonplaceholder.typicode.com/)
+- Live Website With [Github pages](#)
+- Custom Wishlist Movie
+- Wishlist data Cookies
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Packages
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Credits
+- Credits API = https://jsonplaceholder.typicode.com/
