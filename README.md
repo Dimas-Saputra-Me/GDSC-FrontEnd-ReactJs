@@ -5,9 +5,6 @@ Repositori ini merupakan repositori lanjutan dari repositori sebelumnya yaitu re
 Repositori saat ini menggunakan framework React Js dari sebelumnya masih kode native. Terdapat beberapa fitur baru lanjutan dari repositori sebelumnya, yaitu fitur wishlist pengguna dapat menambahkan wishlist film yang dapat di kostumisasi oleh pengguna. Selain itu juga terdapat penambahan sistem cookies untuk menyimpan data wishlist pengguna.
 \
 \
-Kunjungi halaman [Github pages](#) untuk melihat website. 
-\
-\
 **Jangan lupa star-nya, terima kasih.**
 \
 **Repositori ini dibuat untuk keperluan tugas FrontEnd GDSC-ITB**
@@ -43,7 +40,6 @@ Kunjungi halaman [Github pages](#) untuk melihat website.
 ## Features
 - Search movie with available ID
 - Using [JsonPlaceHolder API](https://jsonplaceholder.typicode.com/)
-- Live Website With [Github pages](#)
 - Responsive website (Desktop or Mobile)
 - Custom Wishlist Movie
 - Wishlist data Cookies
